@@ -1,0 +1,53 @@
+#sect4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#sect40 h1{
+    font-size: 30px;
+    text-decoration: underline #E5181D;
+    margin-left: 5%;
+}
+#sect40 h3{
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 8%;
+}
+#sect40 p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 8%;
+    padding-right: 10%;
+}
+#voirplus{
+    color: #E5181D;
+}
+#sect41{
+    margin-right: 10%;
+}
+#sec4{
+    background-color: #E5181D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+}
+#sec40 h1{
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+}
+#sec40 p{
+    font-size: 25px;
+    font-weight: 500;
+    padding-right: 30%;
+    color: white;
+}
+#sec4 button{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 220px;
+    font-size: 25px;
+    border-radius: 10%;
+}

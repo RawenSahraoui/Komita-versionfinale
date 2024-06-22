@@ -1,0 +1,20 @@
+#sect5 h1{
+    text-decoration: underline #E5181D;
+    margin-left: 2%;
+}
+#sect5 h3{
+    margin-left: 2%;
+}
+#sect5 img{
+    margin-left: 25%;
+}
+.sect50{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0% 5%;
+    border-bottom: 1px solid black;
+}
+.sect50 p{
+    font-size: 20px;
+}

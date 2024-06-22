@@ -1,0 +1,24 @@
+#sect2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #E5181D;
+    height    : 150px;
+}
+.sect20{
+    border-radius:10% ;
+    border: #E5181D;
+    padding-left: 2%;
+    color: black;
+    font-size: 25px;
+    height: 50px;
+    width: 400px;
+}
+#sect21{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 220px;
+    font-size: 25px;
+    border-radius: 10%;
+}

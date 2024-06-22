@@ -1,0 +1,42 @@
+#sect30{
+    border-radius: 45px;
+    width: 420px;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#imaaage{
+  
+    height: 354px;
+    width: 100%;
+}
+#sect31{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+#sect31 h1{
+    color: #E5181D;
+    font-size: 30px;
+    padding-left: 3%;
+}
+#sect30 p{
+    color: #3E4958;
+    padding-left: 3%;
+}
+#sect31 img{
+    width:21px ;
+    height: 21px;
+}
+.sect32{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 3%;
+}
+.sect32 img{
+    width: 17px;
+    height: 17px;
+}
+.sect32 p{
+    font-weight: 700;
+}

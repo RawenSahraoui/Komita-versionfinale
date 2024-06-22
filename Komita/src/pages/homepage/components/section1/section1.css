@@ -1,0 +1,27 @@
+#sect1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-image: url(./Mask.png);
+    background-repeat: repeat;
+}
+#sect10{
+    display: grid; 
+}
+#sect10 h1{
+    width: 70%;
+}
+#sect100{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    gap: 50px;
+}
+.sec{
+    border-radius: 20%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#sect11{
+    width: 30%;
+    padding-top: 5%;
+}

@@ -1,0 +1,70 @@
+#sect {
+    width: 100%;
+    height: 130px;
+}
+#sect img{
+    width: 100%;
+}
+#foot0{
+    background-color: #142237;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#foot1{
+    text-align: center;
+    font-family: inter;
+    font-size: 22px;
+    color: #1F212D;
+    margin-top: 1%;
+}
+#logo{
+    padding: 3% 20%;
+    width: 100px;
+    height: 80px;
+}
+#brush{
+    font-family: alex brush;
+    font-size: large;
+    color: white;
+    text-align: center;
+}
+.foot01 h1{
+    color: white;
+    font-size: 30px;
+    text-decoration: underline #E5181D;
+}
+.foot01 p{
+    font-size: large;
+    color: white;
+}
+#subs{
+    width: 200px;
+    height: 30px;
+    border: white;
+    padding-left:2%;
+}
+#sent{
+    background-color: #E5181D;
+    width: 35px;
+    height: 23px;
+    padding: 5px;
+}
+#foot010{
+    display: flex;
+    gap: 0;
+}
+#foot011{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+#foot011 img{
+    height: 23px;
+    width: 123px;
+}
+.foot01 p:hover {
+    color: #E5181D;
+}
